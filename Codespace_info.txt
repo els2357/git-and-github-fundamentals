@@ -1,0 +1,9 @@
+5.4.0-1100-azure
+
+Distributor ID: Debian
+Description:    Debian GNU/Linux 11 (bullseye)
+Release:        11
+Codename:       bullseye
+
+Filesystem      Size  Used Avail Use% Mounted on
+overlay          32G  2.2G   28G   8% /
